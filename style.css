@@ -83,3 +83,37 @@ ul.header-list {
     border: 2px solid black;
     flex-shrink: 300px;
 }
+/*Div-1 end*/
+
+/*Div-2 start*/
+
+.div-2-heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 32px;
+    color: black;
+    padding: 24px;
+}
+
+.div-2-cars {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 50px;
+}
+
+.car {
+    max-width: 400px;
+}
+
+.div-2-cars-text {
+    max-width: 200px;
+}
+
+.div-2-cars-images {
+    max-width: 200px;
+    max-height: 200px;
+    border: 2px solid black;
+}
+
