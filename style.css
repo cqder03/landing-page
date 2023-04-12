@@ -214,5 +214,18 @@ ul.header-list {
 
 /*footer-start*/
 
+.footer {
+    min-height: 100px;
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-text {
+    color: white;
+    font-weight: 300;
+}
+
 /*footer-end*/
 
